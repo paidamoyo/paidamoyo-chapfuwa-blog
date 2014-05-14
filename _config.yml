@@ -1,1 +1,3 @@
-exclude: [./vendor]
+name: Paidamoyo Chapfuwa Blog
+pygments: true
+exclude: ["vendor"]
