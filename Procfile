@@ -1,1 +1,1 @@
-web: bundle exec foreman start -p $PORT
+web: bundle exejekyll server -p $PORT
