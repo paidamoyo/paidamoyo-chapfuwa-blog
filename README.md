@@ -1,4 +1,4 @@
-jekyll-quickstart
+set-up-for-jekyll
 =================
 
 ## Useful Resources:
